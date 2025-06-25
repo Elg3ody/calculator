@@ -5,7 +5,7 @@ Split bill calculator
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>E7sbly - Split Bill Calculator</title>
+  <title> E7sbly - Split Bill Calculator </title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     * {
